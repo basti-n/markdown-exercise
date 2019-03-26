@@ -55,7 +55,7 @@ Der Clou an seinen Tutorials ist: Ihr könnt in allen Videos den Code des instru
 ### Wer hat bei neuefische welche Funktion?
 
 | Mitarbeiter | Rolle |
-| ----------- | :-----: |  
+| ----------- | -----: |  
 | Dalia | Chefin, Unternehmenskontakte |
 | Gesche | Organisation | 
 | Christian |  Head Coach |  
